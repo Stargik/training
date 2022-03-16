@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>game1</id>
+    <version>1.0.0</version>
+    <authors>game1</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Repositories\Git\GitHub\training\game1\game1\bin\Debug\net5.0\game1.runtimeconfig.json" target="lib\net5.0\game1.runtimeconfig.json" />
+    <file src="D:\Repositories\Git\GitHub\training\game1\game1\bin\Debug\net5.0\game1.dll" target="lib\net5.0\game1.dll" />
+  </files>
+</package>

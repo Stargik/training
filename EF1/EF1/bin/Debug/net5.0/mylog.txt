@@ -1,0 +1,31 @@
+
+info: 07.03.2022 14:25:57.246 CoreEventId.ContextInitialized[10403] (Microsoft.EntityFrameworkCore.Infrastructure) 
+      Entity Framework Core 5.0.14 initialized 'ApplicationContext' using provider 'Microsoft.EntityFrameworkCore.Sqlite' with options: None
+info: 07.03.2022 14:25:57.740 RelationalEventId.CommandExecuted[20101] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executed DbCommand (126ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      PRAGMA journal_mode = 'wal';
+info: 07.03.2022 14:25:57.855 RelationalEventId.CommandExecuted[20101] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      CREATE TABLE "Users" (
+          "Id" INTEGER NOT NULL CONSTRAINT "PK_Users" PRIMARY KEY AUTOINCREMENT,
+          "Name" TEXT NULL,
+          "Age" INTEGER NOT NULL
+      );
+info: 07.03.2022 14:25:58.125 RelationalEventId.CommandExecuted[20101] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executed DbCommand (3ms) [Parameters=[@p0='?', @p1='?' (Size = 3)], CommandType='Text', CommandTimeout='30']
+      INSERT INTO "Users" ("Age", "Name")
+      VALUES (@p0, @p1);
+      SELECT "Id"
+      FROM "Users"
+      WHERE changes() = 1 AND "rowid" = last_insert_rowid();
+info: 07.03.2022 14:25:58.144 RelationalEventId.CommandExecuted[20101] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executed DbCommand (0ms) [Parameters=[@p0='?', @p1='?' (Size = 5)], CommandType='Text', CommandTimeout='30']
+      INSERT INTO "Users" ("Age", "Name")
+      VALUES (@p0, @p1);
+      SELECT "Id"
+      FROM "Users"
+      WHERE changes() = 1 AND "rowid" = last_insert_rowid();
+info: 07.03.2022 14:25:58.441 RelationalEventId.CommandExecuted[20101] (Microsoft.EntityFrameworkCore.Database.Command) 
+      Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT "u"."Id", "u"."Age", "u"."Name"
+      FROM "Users" AS "u"

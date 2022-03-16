@@ -1,0 +1,16 @@
+D:\Repositories\Git\GitHub\training\game1\game1\bin\Debug\net5.0\game1.exe
+D:\Repositories\Git\GitHub\training\game1\game1\bin\Debug\net5.0\game1.deps.json
+D:\Repositories\Git\GitHub\training\game1\game1\bin\Debug\net5.0\game1.runtimeconfig.json
+D:\Repositories\Git\GitHub\training\game1\game1\bin\Debug\net5.0\game1.runtimeconfig.dev.json
+D:\Repositories\Git\GitHub\training\game1\game1\bin\Debug\net5.0\game1.dll
+D:\Repositories\Git\GitHub\training\game1\game1\bin\Debug\net5.0\ref\game1.dll
+D:\Repositories\Git\GitHub\training\game1\game1\bin\Debug\net5.0\game1.pdb
+D:\Repositories\Git\GitHub\training\game1\game1\obj\Debug\net5.0\game1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Git\GitHub\training\game1\game1\obj\Debug\net5.0\game1.AssemblyInfoInputs.cache
+D:\Repositories\Git\GitHub\training\game1\game1\obj\Debug\net5.0\game1.AssemblyInfo.cs
+D:\Repositories\Git\GitHub\training\game1\game1\obj\Debug\net5.0\game1.csproj.CoreCompileInputs.cache
+D:\Repositories\Git\GitHub\training\game1\game1\obj\Debug\net5.0\game1.dll
+D:\Repositories\Git\GitHub\training\game1\game1\obj\Debug\net5.0\ref\game1.dll
+D:\Repositories\Git\GitHub\training\game1\game1\obj\Debug\net5.0\game1.pdb
+D:\Repositories\Git\GitHub\training\game1\game1\obj\Debug\net5.0\game1.genruntimeconfig.cache
+D:\Repositories\Git\GitHub\training\game1\game1\obj\Debug\net5.0\game1.csproj.AssemblyReference.cache

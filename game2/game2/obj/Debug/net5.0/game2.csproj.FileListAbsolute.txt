@@ -1,0 +1,16 @@
+D:\Repositories\Git\GitHub\training\game2\game2\bin\Debug\net5.0\game2.exe
+D:\Repositories\Git\GitHub\training\game2\game2\bin\Debug\net5.0\game2.deps.json
+D:\Repositories\Git\GitHub\training\game2\game2\bin\Debug\net5.0\game2.runtimeconfig.json
+D:\Repositories\Git\GitHub\training\game2\game2\bin\Debug\net5.0\game2.runtimeconfig.dev.json
+D:\Repositories\Git\GitHub\training\game2\game2\bin\Debug\net5.0\game2.dll
+D:\Repositories\Git\GitHub\training\game2\game2\bin\Debug\net5.0\ref\game2.dll
+D:\Repositories\Git\GitHub\training\game2\game2\bin\Debug\net5.0\game2.pdb
+D:\Repositories\Git\GitHub\training\game2\game2\obj\Debug\net5.0\game2.csproj.AssemblyReference.cache
+D:\Repositories\Git\GitHub\training\game2\game2\obj\Debug\net5.0\game2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\Git\GitHub\training\game2\game2\obj\Debug\net5.0\game2.AssemblyInfoInputs.cache
+D:\Repositories\Git\GitHub\training\game2\game2\obj\Debug\net5.0\game2.AssemblyInfo.cs
+D:\Repositories\Git\GitHub\training\game2\game2\obj\Debug\net5.0\game2.csproj.CoreCompileInputs.cache
+D:\Repositories\Git\GitHub\training\game2\game2\obj\Debug\net5.0\game2.dll
+D:\Repositories\Git\GitHub\training\game2\game2\obj\Debug\net5.0\ref\game2.dll
+D:\Repositories\Git\GitHub\training\game2\game2\obj\Debug\net5.0\game2.pdb
+D:\Repositories\Git\GitHub\training\game2\game2\obj\Debug\net5.0\game2.genruntimeconfig.cache
